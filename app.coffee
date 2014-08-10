@@ -8,7 +8,7 @@ Framer.Defaults.Animation =
 	curve: 'spring'
 	curveOptions:
 		tension: 190
-		friction: 23
+		friction: 24
 		velocity: 10
 
 LeaveChannel = channelFramer["Leave_Channel_Wide"]
